@@ -10,7 +10,7 @@ public class Main {
 
         int day = 31;
         int month = 12;
-        int year = 2025;
+        int year = 1990;
 
         System.out.println(collectBirthdays(year, month, day));
 
